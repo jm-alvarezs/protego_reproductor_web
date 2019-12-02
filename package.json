@@ -1,0 +1,23 @@
+{
+  "name": "protego_reproductor_web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jm-alvarezs/protego_reproductor_web.git"
+  },
+  "author": "Juan Manuel Alvarez Sanchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jm-alvarezs/protego_reproductor_web/issues"
+  },
+  "homepage": "https://github.com/jm-alvarezs/protego_reproductor_web#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
