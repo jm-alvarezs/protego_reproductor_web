@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/jm-alvarezs/protego_reproductor_web#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
